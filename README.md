@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Deepika</h1>
 <h3 align="center">A tech enthusiast from India</h3>
 
-🌱 I’m currently learning **DSA, Java and CybSec**
+🌱 I’m currently learning **React Native and Java**
 
 📫 How to reach me **dy25218@gmail.com**
 
